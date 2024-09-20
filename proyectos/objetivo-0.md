@@ -47,7 +47,7 @@ iniciales.
 | <!-- Enlace de MarioRgzLpz --> | | |
 | <!-- Enlace de R R A --> | | |
 | <!-- Enlace de eigenric --> | | |
-| [Enlace de enger2003](https://github.com/enger2003/Practica_IV/pull/1) | v0.0.3 | |
+| [Enlace de enger2003](https://github.com/enger2003/Practica_IV/pull/1) | v0.0.4 | |
 | <!-- Enlace de R S A --> | | |
 | <!-- Enlace de S L K --> | | |
 | <!-- Enlace de ChinChainis --> | | |
